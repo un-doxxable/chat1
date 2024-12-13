@@ -1,1 +1,2 @@
 npm install @embeddedchat/react
+import { EmbeddedChat } from '@embeddedchat/react';
